@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.bettem.tms.boot.config.CacheConfig,\
+com.bettem.tms.boot.config.RedisConfig,\
+com.bettem.tms.boot.config.LocalCacheConfig

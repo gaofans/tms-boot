@@ -1,0 +1,5 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.bettem.tms.boot.auth.config.WebAuthConfig,\
+com.bettem.tms.boot.auth.config.WebAuthProperties,\
+com.bettem.tms.boot.auth.controller.LoginController

@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.bettem.tms.boot.commons.utils.SpringContextHolder,\
+com.bettem.tms.boot.commons.config.TaskExecutorConfig

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-auth-model/commons-auth-model.iml" filepath="$PROJECT_DIR$/commons/commons-auth-model/commons-auth-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-auth-web/commons-auth-web.iml" filepath="$PROJECT_DIR$/commons/commons-auth-web/commons-auth-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-cache/commons-cache.iml" filepath="$PROJECT_DIR$/commons/commons-cache/commons-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" filepath="$PROJECT_DIR$/commons/commons-dto/commons-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" filepath="$PROJECT_DIR$/commons/commons-utils/commons-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons-web/commons-web.iml" filepath="$PROJECT_DIR$/commons/commons-web/commons-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dependencies/dependencies.iml" filepath="$PROJECT_DIR$/dependencies/dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tms-boot.iml" filepath="$PROJECT_DIR$/.idea/tms-boot.iml" />
+    </modules>
+  </component>
+</project>
